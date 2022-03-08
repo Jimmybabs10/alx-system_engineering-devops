@@ -1,0 +1,1 @@
+These are shell scripts written for shell variables expansions task
